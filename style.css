@@ -6,5 +6,10 @@
 body, html {
     height: 100%;
     width: 100%;
-    background-color: #999999;
+}
+
+#cenas {
+    height: 100%;
+    width: 100%;
+    background-color:yellow;
 }
